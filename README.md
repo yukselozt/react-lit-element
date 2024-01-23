@@ -1,6 +1,6 @@
 # React Lit Element
 
-Bu projenin React ve Lit Element'in bir arada nasıl kullanılacağının bir örneğini içermektedir.
+This project includes a counter example of how can be used React and Lit Element together.
 
 ## Available Scripts
 
